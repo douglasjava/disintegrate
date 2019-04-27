@@ -17,4 +17,11 @@ or
 
 * > ionic cordova run ios 
 
+Author: [Junior Abranches](https://github.com/juniorabranches)
+
 ## Usage [animejs](https://animejs.com/) 
+
+
+## License ##
+
+[MIT](LICENSE)
